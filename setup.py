@@ -11,7 +11,7 @@ setup(
     name='pruebas1',
     version='0.1',
     author='BHO',
-    author_email='bho@pruebas.com',
+    author_email='bernherre@gmail.com',
     packages=['pruebas1'],
     url='/media/bernie/Info/pruebas/Pruebas1',
     license='MIT',
