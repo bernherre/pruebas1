@@ -17,11 +17,7 @@ setup(
     license='MIT',
     description='add numbers',
     install_requires=[
-        "pandas>=0.17.0",
-        "matplotlib>=1.4",
-        "jinja2>=2.8",
-        "six>=1.9.0",
-	"numpy>=1.18.1"
+	"numpy>=1.16"
     ],
     include_package_data = True,
     classifiers=[
